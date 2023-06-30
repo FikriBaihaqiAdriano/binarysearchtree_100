@@ -30,7 +30,7 @@ public:
 	
 	void insert(string element) //Insert a node in the binary tree
 	{
-
+		Node* newNode = new Node(element, NULL, NULL); //Allocate memory the new Node
 	}
 };
 
