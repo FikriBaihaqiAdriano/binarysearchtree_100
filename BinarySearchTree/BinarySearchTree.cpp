@@ -118,3 +118,7 @@ public:
 	}
 };
 
+int main()
+{
+
+}
