@@ -18,15 +18,19 @@ public:
 	}
 };
 
-class BinaryTree
+class BinaryTree 
 {
 public:
 	Node* ROOT;
 
-	BinaryTree()
+	BinaryTree() 
 	{
 		ROOT = NULL; //Initializing ROOT to NULL
 	}
+	
+	void insert(string element) //Insert a node in the binary tree
+	{
 
+	}
 };
 
